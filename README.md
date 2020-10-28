@@ -1,2 +1,2 @@
 # Exam-Exercises
-SoftUni Exam Exercises  Java
+SoftUni Fundamentals Exam Exercises  Java
