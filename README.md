@@ -1,2 +1,5 @@
 # Exam-Exercises
-SoftUni Fundamentals Exam Exercises  Java
+SoftUni Fundamentals Mid-Exam Exercises
+Topics covered:
+Conditional Statements and Loops
+Linear Data Structures - Arrays and List
